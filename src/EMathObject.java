@@ -1,3 +1,3 @@
 public enum EMathObject {
-  SET, GROUP; // TODO add more here
+  SET, GROUP, VARIABLE; // TODO add more here
 }
